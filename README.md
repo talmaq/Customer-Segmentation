@@ -22,7 +22,7 @@ The aim of this project is to build a customer segmentation model using the K-Me
 
 ## Dataset
 
-- The dataset used in this project is `customers.csv`, which contains customer purchasing data.
+- The dataset used in this project is `Mall_Customers.csv`, which contains customer purchasing data.
 - **Columns:**
   - `CustomerID`: Unique identifier for each customer.
   - `Gender`: Gender of the customer.
@@ -30,7 +30,7 @@ The aim of this project is to build a customer segmentation model using the K-Me
   - `Annual Income`: Annual income of the customer.
   - `Spending Score`: A score assigned based on customer spending behavior.
 
-> **Note:** Make sure your dataset is placed in the root directory of the project with the name `customers.csv`.
+> **Note:** Make sure your dataset is placed in the root directory of the project with the name `Mall_Customers.csv`.
 
 ## Installation
 
